@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637927168143737152
-    m_Hash: 776664116
+      ticks: 637928814581641546
+    m_Hash: 1495286239
   m_LockFileStatus:
     m_FilePath: C:/Users/value/Documents/GitHub/Valuev.horror/Valuev.horror/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637927168201068624
-    m_Hash: 573126187
+      ticks: 637928814657844033
+    m_Hash: 472646747
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -159,12 +159,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: 611215dcd30048fa921b4be160048bad4022d65f
         path: 
-    - packageId: com.unity.ide.rider@2.0.7
+    - packageId: com.unity.ide.rider@3.0.13
       testable: 0
       isDirectDependency: 1
-      version: 2.0.7
+      version: 3.0.13
       source: 1
-      resolvedPath: C:\Users\value\Documents\GitHub\Valuev.horror\Valuev.horror\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\value\Documents\GitHub\Valuev.horror\Valuev.horror\Library\PackageCache\com.unity.ide.rider@3.0.13
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -246,17 +246,11 @@ m_PackageAssets:
         - 3.0.15
         verified: 2.0.7
       dependencies:
-      - name: com.unity.test-framework
-        version: 1.1.1
-      resolvedDependencies:
-      - name: com.unity.test-framework
-        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ext.nunit
+        version: 1.0.6
       keywords: []
       registry:
         id: main
@@ -270,13 +264,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637334461080000000
+      datePublishedTicks: 637837345400000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-        revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
+        revision: 26f15837ac7ebf5038274dcc39e2b79da5fcdc93
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.15
       testable: 0
@@ -711,12 +705,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
         revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
         path: 
-    - packageId: com.unity.timeline@1.4.8
+    - packageId: com.unity.timeline@1.6.4
       testable: 0
       isDirectDependency: 1
-      version: 1.4.8
+      version: 1.6.4
       source: 1
-      resolvedPath: C:\Users\value\Documents\GitHub\Valuev.horror\Valuev.horror\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\value\Documents\GitHub\Valuev.horror\Valuev.horror\Library\PackageCache\com.unity.timeline@1.6.4
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -869,13 +863,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637557616100000000
+      datePublishedTicks: 637789039180000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 527e4364e28028f20f04fc51db671eb4bb910a26
+        revision: d7e1eb6805737974459309b7d6e7db58635dd167
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
